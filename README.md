@@ -1,4 +1,4 @@
-hubot用114514ゲーム（なにそれ）
+hubot用114514ゲーム（？）
 
 #導入（？）
 hubotのscriptsにinm.coffeeをぶち込むんだよあくしろよ
